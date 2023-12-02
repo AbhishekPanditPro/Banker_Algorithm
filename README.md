@@ -1,5 +1,5 @@
 # Banker_Algorithm
-Banker Algorithm is a deadlock avoidance algorithm. The algorithm makes sure that amount of resources allocated and the maximum resources needed in a process is always less than the total available resources. The algorithm maintains the safe state for the multiple processes.
+Banker Algorithm is a deadlock avoidance algorithm. The algorithm makes sure that amount of resources allocated and the maximum resources needed in a process is always less than the total available resources. The algorithm also maintains the safe state for the multiple processes.
 
 ## Note: C++ compiler is inbuilt in the Unix/Linux
 To run in program in Windows, you need to have C++ compiler installed and add the compiler path to the system variables.
